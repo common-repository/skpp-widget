@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+	<content>
+		<path>
+			<name>Specjalista Web designer</name>
+			<features><![CDATA[Będziesz projektować atrakcyjne strony internetowe;Nauczysz się kodować nowoczesne front-endy;Dodasz do strony przydatne funkcjonalności za pomocą skryptów]]></features>
+			<image>web_designer.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/web_designer.html</path_link>
+		</path>
+		<path>
+			<name>Fotograf</name>
+			<features><![CDATA[Poznasz tajniki edycji cyfrowych zdjęć;Będziesz tworzyć niesamowite, przyciągające wzrok fotografie;Stworzysz kompozycję łączące fotografię, 3d i film]]></features>
+			<image>fotograf.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/fotograf.html</path_link>
+		</path>
+		<path>
+			<name>Certyfikowany Programista</name>
+			<features><![CDATA[Nauczysz się programować w popularnych językach;Będziesz pisać aplikacje na systemy mobilne;Stworzysz niesamowite projekty na platformie Arduino]]></features>
+			<image>cartyfikowany_programista.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/programista.html</path_link>
+		</path>
+		<path>
+			<name>WordPress Ekspert</name>
+			<features><![CDATA[Stworzysz nowoczesne strony z WordPress;Opanujesz administrację WordPress;Zaprojektujesz atrakcyjny motyw graficzny dla swojej witryny]]></features>
+			<image>wp_ekspert.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/wordpress_ekspert.html</path_link>
+		</path>
+		<path>
+			<name>Grafik</name>
+			<features><![CDATA[Nauczysz się tworzyć wspaniałe ilustracje;Wykonasz dowolny projekt marketingowy oraz wizualizację produktu;Będziesz projektować publikacje elektroniczne oraz drukowane]]></features>
+			<image>grafik.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/grafik.html</path_link>
+		</path>
+		<path>
+			<name>E-marketingowiec</name>
+			<features><![CDATA[Przygotujesz kampanie reklamowe dla swojego biznesu;Dowiesz się jak efektywnie wykorzystywać budżet reklamowy;Poznasz narzędzia do optymalizowania oraz analizowania skuteczności reklam]]></features>
+			<image>e-marketingowiec.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/e_marketingowiec.html</path_link>
+		</path>
+		<path>
+			<name>Specjalista Web developer</name>
+			<features><![CDATA[Będziesz programować dynamiczne aplikacje internetowe;Stworzysz własny system zarządzania treścią (CMS);Opanujesz najpopularniejsze frameworki webowe]]></features>
+			<image>spec_web_developer.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/web_developer.html</path_link>
+		</path>
+		<path>
+			<name>Projektant 3D</name>
+			<features><![CDATA[Będziesz tworzyć foto-realistyczne wizualizacje;Opanujesz modelowanie i tworzenie animacji;Poznasz Blendera, 3dsMax, Cinema 4d oraz Maya]]></features>
+			<image>projektant_3d.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/projektant_3d.html</path_link>
+		</path>
+		<path>
+			<name>Ekspert Audio</name>
+			<features><![CDATA[Będziesz tworzyć własną muzykę;Poznasz profesjonalne techniki pracy z audio;Opanujesz tajniki obróbki dźwięku]]></features>
+			<image>ekspert_audio.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/ekspert_audio.html</path_link>
+		</path>
+		<path>
+			<name>Office Master</name>
+			<features><![CDATA[Opanujesz tajniki arkuszy kalkulacyjnych;Będziesz tworzyć atrakcyjne prezentacje i poznasz dogłębnie program Word;Bazy danych Access nie będą miały przed tobą żadnych tajemnic]]></features>
+			<image>office_master.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/office_master.html</path_link>
+		</path>
+		<path>
+			<name>Projektant AutoCAD</name>
+			<features><![CDATA[Będziesz w stanie narysować każdy projekt;Stworzysz wizualizacje projektu;Zostaniesz prawdziwym ekspertem AutoCAD]]></features>
+			<image>projektant_cad.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/projektant_autocad.html</path_link>
+		</path>
+		<path>
+			<name>Joomla Ekspert</name>
+			<features><![CDATA[Opanujesz administrację witryną oparta na Joomla;Wykorzystasz liczne rozszerzenia do Joomla po to aby tworzyć strony dla dowolnej branży;Stworzysz własny szablon i napiszesz własne dodatki]]></features>
+			<image>joomla_ekspert.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/joomla_ekspert.html</path_link>
+		</path>
+		<path>
+			<name>Administrator Sieci</name>
+			<features><![CDATA[Opanujesz instalacją oraz konfigurację Linuxa;Poznasz zaawansowane możliwości systemu;Nauczysz się zarządzać serwerem]]></features>
+			<image>administrator_sieci.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/administrator_sieci.html</path_link>
+		</path>
+		<path>
+			<name>Ekspert Wideo</name>
+			<features><![CDATA[Opanujesz profesjonalne techniki montażu;Stworzysz wspaniałe czółówki oraz animacje;Zostaniesz ekspertem od efektów specjalnych]]></features>
+			<image>ekspert_video.png</image>
+			<path_link>http://strefakursow.pl/sciezki_kariery/ekspert_wideo.html</path_link>
+		</path>
+	</content>
